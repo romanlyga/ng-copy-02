@@ -30,6 +30,9 @@ sections:
       background_image_opacity: 20
       background_image_size: auto
       background_image_repeat: repeat
+  - title: lorem-ipsum
+    team: []
+    type: team_section
   - type: features_section
     title: Features
     features:
