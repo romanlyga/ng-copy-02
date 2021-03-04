@@ -82,6 +82,7 @@ sections:
     title: What's New
     show_recent: true
     recent_count: 3
+  - type: contact_section
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
