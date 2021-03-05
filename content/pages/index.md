@@ -78,6 +78,9 @@ sections:
           - label: Learn More
             url: /features
             style: secondary
+  - title: lorem-ipsum
+    team: []
+    type: team_section
   - type: cta_section
     title: This Is A CTA
     subtitle: >-
